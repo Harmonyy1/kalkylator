@@ -1,9 +1,9 @@
 function display(tal) {
-    document.getElementById("result").value += value
+    document.getElementById("result").value += value;
 
     return val
 }
 
 function solve() {
-    let x = document.getElementById("result").value
+    let x = document.getElementById("result").value;
 }
